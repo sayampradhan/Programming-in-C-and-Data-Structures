@@ -14,11 +14,11 @@ void sub(int a, int b) {
 int main(){
   int num1, num2;
   
-  // taking input number 1
+  // taking input for number 1
   printf("num1: ");
   scanf("%d", &num1);
 
-  // taking input number 2
+  // taking input for number 2
   printf("num2: ");
   scanf("%d", &num2);
 
