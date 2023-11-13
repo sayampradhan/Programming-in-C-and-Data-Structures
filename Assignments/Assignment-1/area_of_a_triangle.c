@@ -1,4 +1,4 @@
-// QUESTION 2: Write a program to calculate the area of a triangle
+// QUESTION: Write a program to calculate the area of a triangle
 #include<stdio.h>
 
 // main function
