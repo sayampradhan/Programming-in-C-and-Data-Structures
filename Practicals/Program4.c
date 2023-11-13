@@ -1,4 +1,4 @@
-// AIM - To find the sum of two numbers
+// AIM - To find the sum of two numbers using functions
 #include<stdio.h>
 
 
@@ -24,5 +24,6 @@ int main(){
 
   // calling sum function
   sum(num1, num2);
-
+  
+  return 0;
 }
