@@ -1,4 +1,4 @@
-// Question 1 - Write a program to implement all the logical operators in c
+// Question - Write a program to implement all the logical operators in c
 #include<stdio.h>
 
 // main function
